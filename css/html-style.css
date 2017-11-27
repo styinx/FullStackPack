@@ -1,0 +1,93 @@
+:root
+{
+	--color-primary: 			#007700;
+	--color-secondary: 			#990000;
+	--color-tertiary: 			#009999;
+	--color-quaternary: 		#000099;
+	--color-quinary: 			#CCCC00;
+	--color-white:				#FFFFFF;
+	--color-red:				#FF0000;
+	--color-green:				#00FF00;
+	--color-blue:				#0000FF;
+	--color-black:				#000000;
+	--color-transparent:		rgba(0,0,0,0);
+
+	--size-auto:				auto;
+	--size-small:				50px;
+	--size-medium:				100px;
+	--size-large:				150px;
+
+	--border: 					1px solid var(--secondary);
+
+	--color-background: 		#CCCCCC;
+
+	--gradient-from-top-white-grey:		-webkit-linear-gradient(top, #FFFFFF 10%, #777777 90%);
+	--gradient-from-top-grey-white:		-webkit-linear-gradient(top, #777777 10%, #FFFFFF 90%);
+
+	--gradient-primary-to-secondary:	-webkit-linear-gradient(top, var(--color-primary) 10%, var(--color-secondary) 90%);
+	--gradient-primary-to-tertiary:		-webkit-linear-gradient(top, var(--color-primary) 10%, var(--color-tertiary) 90%);
+	--gradient-primary-to-quanternary:	-webkit-linear-gradient(top, var(--color-primary) 10%, var(--color-quanternary) 90%);
+	--gradient-primary-to-quinary:		-webkit-linear-gradient(top, var(--color-primary) 10%, var(--color-quinary) 90%);
+	--gradient-secondary-to-primary:	-webkit-linear-gradient(top, var(--color-secondary) 10%, var(--color-primary) 90%);
+	--gradient-secondary-to-tertiary:	-webkit-linear-gradient(top, var(--color-secondary) 10%, var(--color-tertiary) 90%);
+	--gradient-secondary-to-quanternary:-webkit-linear-gradient(top, var(--color-secondary) 10%, var(--color-quanternary) 90%);
+	--gradient-secondary-to-quinary:	-webkit-linear-gradient(top, var(--color-secondary) 10%, var(--color-quinary) 90%);
+	--gradient-tertiary-to-primary:		-webkit-linear-gradient(top, var(--color-tertiary) 10%, var(--color-primary) 90%);
+}
+
+.general
+{
+
+}
+
+.black
+{
+	color:						white;
+	background-color:			black;
+}
+
+.border_radius
+{
+	border-radius:				var(--border-radius);
+}
+
+.link
+{
+
+}
+
+.button
+{
+	border:						var(--border);
+
+	color:						var(--color-white);
+	background:					var(--gradient-primary-to-tertiary);
+}
+
+.button:hover
+{
+	color:						var(--color-black);
+	background:					var(--gradient-tertiary-to-primary);
+}
+
+.button_auto
+{
+	width:						var(--size-auto);
+	height:						var(--size-auto);
+}
+
+.button_auto:active
+{
+
+}
+
+.button_auto:hover
+{
+
+}
+
+.button_large
+{
+	width:						var(--size-large);
+	height:						var(--size-small);
+}
