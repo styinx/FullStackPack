@@ -1,0 +1,4 @@
+RewriteEngine on
+
+# redirect all api calls to /api/index.php
+RewriteRule ^api/([a-zA-Z]{3,}/){1,5}(json|xml|csv)$ api/rest.php [L,NC]
