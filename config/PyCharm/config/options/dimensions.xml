@@ -1,0 +1,18 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1920.1080" x="743" y="173" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="437" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080" x="667" y="331" />
+    <location key="SettingsEditor.0.0.1920.1080" x="1074" y="101" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="1070" y="100" />
+    <location key="#Browse_Repositories.0.0.1920.1080" x="1070" y="100" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="718" y="929" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.1920.1080" x="692" y="309" />
+    <size key="SettingsEditor.0.0.1920.1080" width="831" height="701" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="914" height="276" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="914" height="276" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="914" height="276" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="914" height="276" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="400" height="116" />
+  </component>
+</application>

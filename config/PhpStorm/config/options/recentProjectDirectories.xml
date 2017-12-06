@@ -1,0 +1,78 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="F:/Users/Chris/Programmieren/Projekte/MP" />
+        <option value="F:/Users/Chris/Programmieren/Projekte/vgeb1" />
+        <option value="F:/Users/Chris/Programmieren/Projekte/vgeb" />
+        <option value="F:/Users/Chris/Programmieren/Projekte/LeergutVerwaltung" />
+        <option value="F:/Users/Chris/Programmieren/Projekte/ADMV" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="F:/Users/Chris/Programmieren/Projekte/MP" />
+      </list>
+    </option>
+    <option name="lastPath" value="F:/Users/Chris/Programmieren/Projekte/MP" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="F:/Users/Chris/Programmieren/Projekte/ADMV">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.4155.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507057474736" />
+              <option name="buildTimestamp" value="1505468173583" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Users/Chris/Programmieren/Projekte/LeergutVerwaltung">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.4155.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508783876843" />
+              <option name="buildTimestamp" value="1505468196004" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Users/Chris/Programmieren/Projekte/MP">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.4155.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509883973767" />
+              <option name="buildTimestamp" value="1505468186392" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Users/Chris/Programmieren/Projekte/vgeb">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.4155.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509093286186" />
+              <option name="buildTimestamp" value="1505468179284" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Users/Chris/Programmieren/Projekte/vgeb1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PS-172.4155.41" />
+              <option name="productionCode" value="PS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509451796198" />
+              <option name="buildTimestamp" value="1505468191300" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

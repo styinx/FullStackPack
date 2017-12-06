@@ -1,0 +1,51 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Lua" />
+      <type value="Lua SDK" />
+      <homePath value="" />
+      <roots>
+        <classPath>
+          <root type="composite" />
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.4 (C:\Libs\Python\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.4" />
+      <homePath value="C:\Libs\Python\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://C:/Libs/Python" />
+            <root type="simple" url="file://C:/Libs/Python/DLLs" />
+            <root type="simple" url="file://C:/Libs/Python/Lib" />
+            <root type="simple" url="file://C:/Libs/Python/libs" />
+            <root type="simple" url="file://C:/Libs/Python/Scripts" />
+            <root type="simple" url="file://C:/Libs/Python/Lib/site-packages" />
+            <root type="simple" url="file://C:/Libs/Python/Lib/site-packages/win32" />
+            <root type="simple" url="file://C:/Libs/Python/Lib/site-packages/win32/lib" />
+            <root type="simple" url="file://C:/Libs/Python/Lib/site-packages/pythonwin" />
+            <root type="simple" url="file://$USER_HOME$/.CLion2017.2/system/python_stubs/873993354" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.4" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3.3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,17 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="Build@NavBarToolbar" count="353" />
+      <entry action="CMake.ReloadCMakeProject@CMakeOutputLeft" count="5" />
+      <entry action="Debug@NavBarToolbar" count="6" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="2" />
+      <entry action="Run@NavBarToolbar" count="311" />
+      <entry action="Stop@NavBarToolbar" count="19" />
+      <entry action="com.intellij.execution.ui.actions.CloseAction@DebuggerToolbar" count="1" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="1" />
+      <entry action="com.intellij.notification.EventLogConsole$ClearLogAction@EventLog" count="1" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="3" />
+      <entry action="com.jetbrains.cidr.cpp.cmake.actions.EditCMakeCacheAction@CMakeOutputLeft" count="1" />
+    </counts>
+  </component>
+</application>

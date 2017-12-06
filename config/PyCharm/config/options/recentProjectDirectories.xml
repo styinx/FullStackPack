@@ -1,0 +1,37 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="F:/Users/Chris/Programmieren/Projekte/ADMV" />
+        <option value="F:/Users/Chris/Programmieren/Projekte/SysMonitor/src" />
+      </list>
+    </option>
+    <option name="additionalInfo">
+      <map>
+        <entry key="F:/Users/Chris/Programmieren/Projekte/ADMV">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-172.3968.37" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507033991934" />
+              <option name="buildTimestamp" value="1504275790213" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="F:/Users/Chris/Programmieren/Projekte/SysMonitor/src">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="PC-172.3968.37" />
+              <option name="productionCode" value="PC" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506612329083" />
+              <option name="buildTimestamp" value="1504275807564" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="F:/Users/Chris/Programmieren/Projekte" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping ext="html" type="PHP" />
+      <mapping pattern="buffer" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

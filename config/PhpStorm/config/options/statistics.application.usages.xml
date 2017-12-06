@@ -1,0 +1,19 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="OpenInBrowser.Firefox" count="1" />
+      <entry feature="OpenInBrowser.Opera" count="1" />
+      <entry feature="OpenInBrowser.Safari" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="2" />
+      <entry feature="ide.settings.Code_Style" count="1" />
+      <entry feature="ide.settings.File_Types" count="2" />
+      <entry feature="ide.settings.General" count="2" />
+      <entry feature="ide.settings.PHP" count="12" />
+      <entry feature="ideaapp.started" count="21" />
+      <entry feature="terminal.win" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateWebProject" count="3" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="3" />
+      <entry feature="welcome.screen.null" count="2" />
+    </counts>
+  </component>
+</application>

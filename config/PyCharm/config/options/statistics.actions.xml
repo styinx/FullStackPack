@@ -1,0 +1,66 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Cut" count="1" />
+      <entry action="$Delete" count="6" />
+      <entry action="$Redo" count="56" />
+      <entry action="$SelectAll" count="11" />
+      <entry action="$Undo" count="435" />
+      <entry action="ChooseRunConfiguration" count="1" />
+      <entry action="CloseProject" count="1" />
+      <entry action="CollapseRegion" count="1" />
+      <entry action="CommentByLineComment" count="14" />
+      <entry action="EditorBackSpace" count="2003" />
+      <entry action="EditorChooseLookupItem" count="318" />
+      <entry action="EditorCopy" count="40" />
+      <entry action="EditorCut" count="31" />
+      <entry action="EditorDelete" count="1000" />
+      <entry action="EditorDeleteLine" count="1" />
+      <entry action="EditorDeleteToWordEnd" count="76" />
+      <entry action="EditorDeleteToWordStart" count="498" />
+      <entry action="EditorDown" count="1810" />
+      <entry action="EditorDownWithSelection" count="33" />
+      <entry action="EditorDuplicate" count="13" />
+      <entry action="EditorEnter" count="553" />
+      <entry action="EditorEscape" count="76" />
+      <entry action="EditorIndentSelection" count="7" />
+      <entry action="EditorLeft" count="2791" />
+      <entry action="EditorLeftWithSelection" count="355" />
+      <entry action="EditorLineEnd" count="303" />
+      <entry action="EditorLineEndWithSelection" count="21" />
+      <entry action="EditorLineStart" count="50" />
+      <entry action="EditorLineStartWithSelection" count="72" />
+      <entry action="EditorNextWord" count="346" />
+      <entry action="EditorPaste" count="99" />
+      <entry action="EditorPreviousWord" count="380" />
+      <entry action="EditorRight" count="2212" />
+      <entry action="EditorRightWithSelection" count="170" />
+      <entry action="EditorTab" count="113" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUnindentSelection" count="9" />
+      <entry action="EditorUp" count="1200" />
+      <entry action="EditorUpWithSelection" count="55" />
+      <entry action="FileChooser.NewFolder" count="1" />
+      <entry action="Find" count="1" />
+      <entry action="MarkExcludeRoot" count="1" />
+      <entry action="MarkSourceRoot" count="1" />
+      <entry action="MethodDown" count="12" />
+      <entry action="MethodUp" count="7" />
+      <entry action="MoveStatementDown" count="60" />
+      <entry action="MoveStatementUp" count="50" />
+      <entry action="NewDir" count="2" />
+      <entry action="NewElement" count="1" />
+      <entry action="NewPythonFile" count="14" />
+      <entry action="NewPythonPackage" count="3" />
+      <entry action="RenameElement" count="3" />
+      <entry action="Replace" count="3" />
+      <entry action="Run" count="2" />
+      <entry action="Runner.RestoreLayout" count="1" />
+      <entry action="SaveAll" count="385" />
+      <entry action="ShowIntentionActions" count="38" />
+      <entry action="ShowSettings" count="4" />
+      <entry action="SplitVertically" count="1" />
+      <entry action="Stop" count="2" />
+    </counts>
+  </component>
+</application>

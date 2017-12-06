@@ -1,0 +1,34 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="AbstractNewProjectStep.C++ Executable" count="1" />
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="StripeButton[Version_Control].hidden" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="2" />
+      <entry feature="cidr.completion.qualified" count="1236" />
+      <entry feature="cidr.completion.qualified.changeQualifyingToken.fromDereference" count="14" />
+      <entry feature="cidr.completion.qualified.changeQualifyingToken.fromDot" count="34" />
+      <entry feature="cidr.newFile" count="108" />
+      <entry feature="cidr.newFile.addedToProject" count="42" />
+      <entry feature="cidr.newFile.source" count="43" />
+      <entry feature="execute.CMakeRunConfiguration.Debug" count="6" />
+      <entry feature="execute.CMakeRunConfiguration.Run" count="310" />
+      <entry feature="ide.help.New_CPP_File_Dialog" count="1" />
+      <entry feature="ide.settings.C/C++" count="5" />
+      <entry feature="ide.settings.CMake" count="4" />
+      <entry feature="ide.settings.Code_Style" count="7" />
+      <entry feature="ide.settings.General" count="1" />
+      <entry feature="ide.settings.Other_File_Types" count="2" />
+      <entry feature="ide.settings.Path_Variables" count="2" />
+      <entry feature="ide.settings.Python_Console" count="1" />
+      <entry feature="ide.settings.Python_Interpreter" count="4" />
+      <entry feature="ide.settings.Toolchains" count="6" />
+      <entry feature="ideaapp.started" count="64" />
+      <entry feature="new.cmake.project.C++ Executable" count="1" />
+      <entry feature="terminal.win" count="17" />
+      <entry feature="welcome.screen.ImportCMakeProject" count="3" />
+      <entry feature="welcome.screen.OpenCPPProject" count="1" />
+      <entry feature="welcome.screen.null" count="1" />
+    </counts>
+  </component>
+</application>

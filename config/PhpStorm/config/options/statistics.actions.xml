@@ -1,0 +1,76 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Delete" count="5" />
+      <entry action="$Redo" count="49" />
+      <entry action="$SelectAll" count="11" />
+      <entry action="$Undo" count="749" />
+      <entry action="ActivateProjectToolWindow" count="1" />
+      <entry action="CheckinProject" count="4" />
+      <entry action="CloseProject" count="3" />
+      <entry action="CommentByLineComment" count="22" />
+      <entry action="EditorBackSpace" count="3706" />
+      <entry action="EditorChooseLookupItem" count="940" />
+      <entry action="EditorChooseLookupItemReplace" count="3" />
+      <entry action="EditorCopy" count="350" />
+      <entry action="EditorCut" count="276" />
+      <entry action="EditorDelete" count="1234" />
+      <entry action="EditorDeleteLine" count="1" />
+      <entry action="EditorDeleteToWordEnd" count="377" />
+      <entry action="EditorDeleteToWordStart" count="1239" />
+      <entry action="EditorDown" count="3171" />
+      <entry action="EditorDownWithSelection" count="158" />
+      <entry action="EditorDuplicate" count="200" />
+      <entry action="EditorEnter" count="2209" />
+      <entry action="EditorEscape" count="244" />
+      <entry action="EditorIndentSelection" count="94" />
+      <entry action="EditorLeft" count="3257" />
+      <entry action="EditorLeftWithSelection" count="1005" />
+      <entry action="EditorLineEnd" count="477" />
+      <entry action="EditorLineEndWithSelection" count="105" />
+      <entry action="EditorLineStart" count="99" />
+      <entry action="EditorLineStartWithSelection" count="175" />
+      <entry action="EditorNextWord" count="1112" />
+      <entry action="EditorPaste" count="861" />
+      <entry action="EditorPreviousWord" count="946" />
+      <entry action="EditorRight" count="2443" />
+      <entry action="EditorRightWithSelection" count="223" />
+      <entry action="EditorScrollUp" count="1" />
+      <entry action="EditorSelectWord" count="3" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorTab" count="575" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUnindentSelection" count="38" />
+      <entry action="EditorUp" count="2238" />
+      <entry action="EditorUpWithSelection" count="168" />
+      <entry action="ExpandLiveTemplateByTab" count="2" />
+      <entry action="FileChooser.Refresh" count="1" />
+      <entry action="FileStructurePopup" count="1" />
+      <entry action="Find" count="12" />
+      <entry action="FindPrevious" count="1" />
+      <entry action="HideAllWindows" count="1" />
+      <entry action="MarkResourceRoot" count="1" />
+      <entry action="MarkSourceRoot" count="1" />
+      <entry action="MoveStatementDown" count="113" />
+      <entry action="MoveStatementUp" count="136" />
+      <entry action="NewDir" count="8" />
+      <entry action="NewHtmlFile" count="5" />
+      <entry action="NewJavaScriptFile" count="3" />
+      <entry action="NewStylesheetFile" count="4" />
+      <entry action="OpenFile" count="1" />
+      <entry action="PhpNewClass" count="2" />
+      <entry action="PhpNewFile" count="11" />
+      <entry action="ReformatCode" count="3" />
+      <entry action="RenameElement" count="4" />
+      <entry action="Replace" count="7" />
+      <entry action="SaveAll" count="1819" />
+      <entry action="ShowIntentionActions" count="13" />
+      <entry action="ShowSettings" count="11" />
+      <entry action="SplitVertically" count="2" />
+      <entry action="ToggleBookmark" count="1" />
+      <entry action="ToggleLineBreakpoint" count="1" />
+      <entry action="Vcs.Push" count="1" />
+      <entry action="Vcs.UpdateProject" count="1" />
+    </counts>
+  </component>
+</application>

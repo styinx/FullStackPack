@@ -1,0 +1,11 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="1" />
+      <entry action="Run@NavBarToolbar" count="2" />
+      <entry action="Runner.RestoreLayout@RunnerToolbar" count="1" />
+      <entry action="Stop@NavBarToolbar" count="1" />
+      <entry action="Stop@RunnerToolbar" count="1" />
+    </counts>
+  </component>
+</application>
